@@ -74,9 +74,8 @@ It includes configurations for my shell, editors, terminal, window managers, app
 * Hyprland
 * Rofi
 * Btop
-* Fastfetch / Neofetch
+* Fastfetch
 * Obsidian
-* VLC
 * RetroArch
 
 ---
