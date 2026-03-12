@@ -1,0 +1,15 @@
+# GIMP gimp-convolve-tool options
+
+(foreground
+    (color "HSVA float" 16 "\215F\32\77\215\217J\77\201\100\343\76\0\0\200\77" 0))
+(background
+    (color "HSVA float" 16 "\44\222\47\77\252\64\10\76\320\347\225\76\0\0\200\77" 0))
+(brush "2. Hardness 050")
+(dynamics "Pressure Size")
+(pattern "Pine")
+(palette "Standard")
+(brush-size 51)
+(brush-hardness 0.26000000000000001)
+(brush-force 0.080000000000000002)
+
+# end of gimp-convolve-tool options

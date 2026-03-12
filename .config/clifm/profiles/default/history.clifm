@@ -1,0 +1,115 @@
+edit
+#1757705058
+ls -a
+#1757705066
+?
+#1757705152
+:h
+#1757705175
+cd .config/
+#1757705195
+lls -a
+#1757705199
+ls -a
+#1757705236
+ls /etc/clifm
+#1757705264
+nvim clifmrc
+#1757705311
+:toggle_hidden
+#1757705322
+;h
+#1757705439
+ls
+#1757705477
+nvim settings.ini
+#1757705669
+sps adwaita-icon-theme
+#1757705676
+xit
+#1757705938
+/usr
+#1757706165
+ls
+#1757706286
+notepadqq
+#1757709668
+mkdir asdfg
+#1757709693
+cd /home/joel/
+#1757709694
+ls
+#1757709697
+clear
+#1757709708
+mkdir asdfg
+#1757709724
+rmdir asdfg
+#1757743928
+cd /home/joel/
+#1757743965
+fish
+#1757743979
+cd 17
+#1757743988
+fish
+#1757746033
+fastfetch --list-config-paths
+#1757746053
+cd fastfetch
+#1757746151
+fastfetch --gen-config
+#1757755909
+cd ..
+#1757755940
+mkdir Screenshots
+#1757755948
+Screenshots/
+#1757756121
+slurp
+#1757756130
+ls
+#1757756133
+cd ..
+#1757756186
+grim (slurp)
+#1757756218
+catimg 1161,226 1572x461
+#1757756254
+catimg 12
+#1757756298
+sps nsxiv
+#1757756323
+nsxiv 12
+#1757838393
+unzip 1
+#1757838409
+tar -z 1
+#1757838417
+tar help
+#1757838425
+tar --help
+#1757838491
+tar -x 1
+#1757838498
+sps 7z
+#1759244909
+ls 3/CONFIGS
+#1759244912
+ls 3/CONFIG
+#1759244924
+cd ..
+#1759244927
+cd 1
+#1759244929
+cd 3
+#1759244933
+ls 1
+#1759244936
+cd ..
+#1759244988
+hidden
+#1759245001
+cp 7 BACKUP/CONFIGS/
+#1759245007
+cp -r 7 BACKUP/CONFIGS/

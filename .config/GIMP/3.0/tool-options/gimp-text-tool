@@ -1,0 +1,8 @@
+# GIMP gimp-text-tool options
+
+(foreground
+    (color "HSVA float" 16 "\215F\32\77\215\217J\77\201\100\343\76\0\0\200\77" 0))
+(palette "Standard")
+(font "Sans-serif")
+
+# end of gimp-text-tool options

@@ -1,0 +1,18 @@
+# GIMP colorrc
+# 
+# This file holds a list of recently used colors.
+
+(color-history
+    (color "HSVA float" 16 "\215F\32\77\215\217J\77\201\100\343\76\0\0\200\77" 0)
+    (color "HSVA float" 16 "\43\222\47\77\252\64\10\76\320\347\225\76\0\0\200\77" 0)
+    (color "HSVA float" 16 "\44\222\47\77\223\11\76\76\20\10\14\77\0\0\200\77" 0)
+    (color "HSVA float" 16 "\173\75\55\77J\343q\77\24\12W\77\0\0\200\77" 0)
+    (color "R'G'B'A u8" 4 "\23\230\0\377" 0)
+    (color "HSV float" 12 "\0\0\0\0zHZ\77\26\266V\77" 0)
+    (color "R'G'B'A u8" 4 "\0\0\0\377" 0)
+    (color "R'G'B'A float" 16 "\0\0\200\77\0\0\200\77\0\0\200\77\0\0\200\77" 0)
+    (color "R'G'B'A u8" 4 "\27\27\27\377" 0)
+    (color "R'G'B'A u8" 4 "\56\64\100\377" 0)
+    (color "R'G'B'A u8" 4 "\65\65\65\377" 0))
+
+# end of colorrc

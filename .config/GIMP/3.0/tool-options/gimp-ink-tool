@@ -1,0 +1,11 @@
+# GIMP gimp-ink-tool options
+
+(foreground
+    (color "HSVA float" 16 "\215F\32\77\215\217J\77\201\100\343\76\0\0\200\77" 0))
+(background
+    (color "HSVA float" 16 "\44\222\47\77\252\64\10\76\320\347\225\76\0\0\200\77" 0))
+(pattern "Pine")
+(brush-size 51)
+(brush-hardness 0.5)
+
+# end of gimp-ink-tool options

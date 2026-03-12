@@ -1,0 +1,6 @@
+# GIMP gimp-transform-3d-tool options
+
+(background
+    (color "HSVA float" 16 "\44\222\47\77\252\64\10\76\320\347\225\76\0\0\200\77" 0))
+
+# end of gimp-transform-3d-tool options
